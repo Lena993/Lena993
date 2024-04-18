@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lena993
+- 👋 Hi, I’m Lena
 - 👀 I’m interested in Video Games
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on C# or Phyton projects
