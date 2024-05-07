@@ -3,6 +3,8 @@
 
 - <b>Calculator simple form C#</b>
   - [Creating a calculator app](https://github.com/Lena993/Calculator)
+- <b>Pixel Bot App C# </b>
+  - [creating a pixel app to open a program using a hexcode](https://github.com/Lena993/Pixel-Bot)
 
 
 
