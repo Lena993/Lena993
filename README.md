@@ -5,6 +5,8 @@
   - [Creating a calculator app](https://github.com/Lena993/Calculator)
 - <b>Pixel Bot App C# </b>
   - [Creating a Pixel Bot App to launch a program through a one Pixel Color Hex Code](https://github.com/Lena993/Pixel-Bot)
+- <b>Tic Tac Toe in C# </b> 
+  - [Creating a simple game Tic Tac Toe](https://github.com/Lena993/TicTacToe)
 
 
 
